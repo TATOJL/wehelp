@@ -1,0 +1,27 @@
+*,*::after,*::before{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+}
+
+.header{ 
+   margin: auto;
+   text-align: center;
+   font-size: x-large;
+   background-color: aqua;
+   padding: 20px;
+}
+.container{
+    background-image:  url(/image/sand.jpg);
+    max-width: 1000px;
+    margin: auto;
+    letter-spacing: 5px;
+    line-height: 50px;
+}
+.title{
+    margin: 20px;
+    font-size: 25px;
+}
+.content{
+    padding:10px 20px;
+}
