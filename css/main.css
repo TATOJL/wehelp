@@ -8,12 +8,13 @@
    margin: auto;
    text-align: center;
    font-size: x-large;
-   background-color: aqua;
+   background-color: rgb(31, 5, 48);
+   color: white;
    padding: 20px;
 }
 .container{
     background-image:  url(/image/sand.jpg);
-    max-width: 1000px;
+    max-width: 1100px;
     margin: auto;
     letter-spacing: 5px;
     line-height: 50px;
@@ -24,4 +25,5 @@
 }
 .content{
     padding:10px 20px;
+    font-size: 20px;
 }
